@@ -12,7 +12,7 @@ class VideoInfo extends Component {
 
    render() {
       return (
-         <div>
+         <div >
             Video Info
             {this.displayVideoDetails()}
          </div>
